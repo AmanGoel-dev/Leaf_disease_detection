@@ -9,12 +9,14 @@ The main goal is to help detect plant diseases early and assist farmers in preve
 
 Your current structure:
 
+
 LEAF_DISEASE/
 ├── BaseCNN.py
 ├── EfficientNetB3.py
 ├── SwinL4th.py
 ├── vitB16.py
 └── README.md  ← (add this file)
+
 
 File Descriptions
 File	Description
